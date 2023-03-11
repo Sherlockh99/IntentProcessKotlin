@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intent Process</string>
+    <string name="echo">ECHO</string>
+</resources>
